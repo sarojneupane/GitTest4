@@ -11,6 +11,7 @@ namespace AvaApp1
         static void Main(string[] args)
         {
             Console.WriteLine("This is a test to see how github works");
+            Console.WriteLine("This is another line added from githubwebsite");
         }
     }
 }
